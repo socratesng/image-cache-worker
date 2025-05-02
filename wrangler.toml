@@ -8,4 +8,4 @@ compatibility_date = "2022-08-09"
 FALLBACK_FIGURE = "https://http.cat/404.jpg"
 
 # Secrets
-APITOKEN = "pnDfLgwyezcXEQgcwiS6"
+# APITOKEN = "pnDfLgwyezcXEQgcwiS6"
