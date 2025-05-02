@@ -2,10 +2,10 @@ name = "pic-cache"
 main = "src/index.ts"
 compatibility_date = "2022-08-09"
 
-route = "${ROUTE}"
+# route = "${ROUTE}"
 
 [vars]
-FALLBACK_FIGURE = "${FALLBACK_FIGURE}"
+FALLBACK_FIGURE = "https://http.cat/404.jpg"
 
 # Secrets
-# APITOKEN = "<YOUR APITOKEN>"
+APITOKEN = "pnDfLgwyezcXEQgcwiS6"
